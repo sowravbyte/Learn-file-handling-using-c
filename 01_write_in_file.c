@@ -12,7 +12,7 @@ use continuously.
 6."a+" - append + read
 */
 // here is a basic structure of how to write in a file
-//*** remember when you open the file you need to must close the file*****
+//*** remember when you open the file you must need to close the file*****
 #include <stdio.h>
 int main() {
     FILE *file;
