@@ -16,7 +16,7 @@ use continuously.
 #include <stdio.h>
 int main() {
     FILE *file;
-    file = fopen("file.txt", "w"); // file.txt i our file where we store our data
+    file = fopen("file.txt", "w"); // file.txt is our file that where we're store our data
     fprintf(file, "Hello, File Handling!");
     fclose(file); // close the file when the work on file is done
     return 0;
