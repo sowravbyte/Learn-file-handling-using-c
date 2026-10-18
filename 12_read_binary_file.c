@@ -1,4 +1,4 @@
-/* now lets learn how to read data from the file. same as text file handling
+ /* now lets learn how to read data from the file. same as text file handling
 this time we use fread & "rb" stands for 'read' 'binary'*/
 #include <stdio.h>
 int main(void) {
